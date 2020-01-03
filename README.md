@@ -7,3 +7,7 @@
   * There is a limit of 4 elders per young to take care of.
 ### Class Diagram
 ![class diagram](https://github.com/harshitkumawat/CareAll/blob/master/Screenshot%20from%202020-01-03%2023-18-12.png)
+### Libraries required :
+  * PrettyTable
+  * pymysql
+  * os
