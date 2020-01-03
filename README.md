@@ -6,13 +6,13 @@
   * Both types of users have reviews & rating.
   * There is a limit of 4 elders per young to take care of.
 ### Class Diagram
-![class diagram](https://github.com/harshitkumawat/CareAll/blob/master/Screenshot%20from%202020-01-03%2023-18-12.png)
+![class diagram](https://github.com/harshitkumawat/CareAll/blob/master/Screenshot%20from%202020-01-03%2023-18-12.png = 250x250)
 ### Libraries required :
   * PrettyTable
   * pymysql
   * os
 ### How to run ?
 * #### Download careall.py and careall.sql from repository
-* #### import careall.sql in mysql using command :
-        mysqldump careall < careall.sql
+* #### import careall.sql using command :
+        sudo mysqldump careall < careall.sql
 * #### Run careall.py in terminal(Ubuntu)
