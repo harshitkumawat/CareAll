@@ -19,5 +19,3 @@
 * #### Move to the directory where careall.py is present
 * #### Run careall.py in terminal(Ubuntu) using command :
         python careall.py
-### Description
-![](https://github.com/harshitkumawat/CareAll/blob/master/Screenshot%20from%202020-01-03%2023-56-47.png)
