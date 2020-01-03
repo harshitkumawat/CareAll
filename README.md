@@ -6,7 +6,7 @@
   * Both types of users have reviews & rating.
   * There is a limit of 4 elders per young to take care of.
 ### Class Diagram
-<img src = https://github.com/harshitkumawat/CareAll/blob/master/Screenshot%20from%202020-01-03%2023-18-12.png height = "200" width = "200">
+<img src = https://github.com/harshitkumawat/CareAll/blob/master/Screenshot%20from%202020-01-03%2023-18-12.png height = "500" width = "500">
 ### Libraries required :
   * PrettyTable
   * pymysql
