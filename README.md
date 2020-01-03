@@ -8,14 +8,16 @@
 ### Class Diagram
 ![](https://github.com/harshitkumawat/CareAll/blob/master/Screenshot%20from%202020-01-03%2023-18-12.png)
 ### Libraries required :
-  * PrettyTable
-  * pymysql
-  * os
+  * #### PrettyTable
+  * #### pymysql
+  * #### os
 ### How to run ?
 * #### Download careall.py and careall.sql from repository
 * #### Make sure mysql and python is installed
 * #### import careall.sql using command :
         sudo mysqldump careall < careall.sql
 * #### Move to the directory where careall.py is present
-* #### Run careall.py in terminal(Ubuntu) using command
+* #### Run careall.py in terminal(Ubuntu) using command :
         python careall.py
+### Description
+![](https://github.com/harshitkumawat/CareAll/blob/master/Screenshot%20from%202020-01-03%2023-56-47.png)
