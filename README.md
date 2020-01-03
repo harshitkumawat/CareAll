@@ -11,3 +11,8 @@
   * PrettyTable
   * pymysql
   * os
+### How to run ?
+* #### Download careall.py and careall.sql from repository
+* #### import careall.sql in mysql using command :
+        mysqldump careall < careall.sql
+* #### Run careall.py in terminal(Ubuntu)
