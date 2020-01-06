@@ -19,3 +19,4 @@
 * #### Move to the directory where careall.py is present
 * #### Run careall.py in terminal(Ubuntu) using command :
         python careall.py
+#### Note - Admin Password is 12345
